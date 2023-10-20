@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sorinmocuta)
   <br>
 <br>
- 💻  I’m working as a freelancer and do web and mobile apps for many clients.
+ 💻  I’m working as a freelancer and create web and mobile apps for many clients.
   <br>
   📖  I'm currently studying for a Bachelor’s degree in Informatics Aurel Vlaicu University of Arad
   <br>
