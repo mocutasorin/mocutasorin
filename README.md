@@ -5,7 +5,7 @@
 <br>
  💻  I’m working as a freelancer and create web and mobile apps for various clients.
   <br>
-  📖  I'm currently studying for a Bachelor’s degree in Informatics Aurel Vlaicu University of Arad
+  📖 Bachelor’s degree in Informatics
   <br>
   📨  Reach me out: <a href="mailto: mocutasorin@gmail.com">mocutasorin@gmail.com</a>
   <br>
