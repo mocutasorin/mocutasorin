@@ -1,36 +1,58 @@
-### Hi there 👋 , I'm Sorin, MERN Full Stack Developer
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mocutasorin)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sorinmocuta)
-  <br>
-<br>
- 💻  I’m working as a freelancer and create web and mobile apps for various clients.
-  <br>
-  📖 Bachelor’s degree in Informatics
-  <br>
-  📨  Reach me out: <a href="mailto: mocutasorin@gmail.com">mocutasorin@gmail.com</a>
-  <br>
-<hr>
-<h2> Technologies which I’m using</h2>
-<code><img height="27” alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="27” alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="27” alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="27” alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<hr><br>
-If you like any of my repositories don't forget to add a ⭐. Thanks for visiting my profile.
-<!--
-**mocutasorin/mocutasorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Sorin! 👋
 
-Here are some ideas to get you started:
+**Full-Stack Engineer | Mobile Developer | Shopify Specialist**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software engineer focused on building high-performance web and mobile ecosystems.
+
+> 📉 **Activity Note:** The majority of my engineering work (500+ contributions in 2025) takes place in private commercial repositories for enterprise clients.
+
+---
+
+### 🚀 Core Competencies
+
+**🛍️ Shopify & E-commerce Engineering**
+- Architecting high-performance embedded apps using **Remix** and **Polaris**.
+- Optimizing for **Core Web Vitals** to achieve the "Built for Shopify" badge standards.
+- Building complex, real-time analytics dashboards.
+
+**📱 Mobile Application Development**
+- Developing cross-platform **React Native** applications for B2B and logistics.
+- Implementing **Offline-First** architectures using **Supabase** and local caching.
+- Integrating hardware features: Geolocation tracking, QR authentication, and digital signatures.
+
+**☁️ Cloud & AI Integration**
+- Designing serverless pipelines on **Google Cloud Platform (GCP)**.
+- Integrating **Google Vision API** and **LLMs (Claude)** for automated document processing and OCR.
+- Secure payment gateway integration (Stripe) and real-time data synchronization.
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Cloud**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+**Ecosystems**
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
+
+---
+
+### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sorin_Mocuta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sorinmocuta/)
+[![Email](https://img.shields.io/badge/Email-mocutasorin@gmail.com-c14438?style=flat&logo=gmail)](mailto:mocutasorin@gmail.com)
+
+<br />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocutasorin&layout=compact&theme=dracula&hide_border=true" height="150" alt="Languages" />
+</div>
