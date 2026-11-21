@@ -1,10 +1,8 @@
 ### Hi there, I'm Sorin! 👋
 
-**Full-Stack Engineer | Mobile Developer | Shopify Specialist**
+**AI-Native Product Engineer**
 
-I am a software engineer focused on building high-performance web and mobile ecosystems.
-
-> 📉 **Activity Note:** The majority of my engineering work (500+ contributions in 2025) takes place in private commercial repositories for enterprise clients.
+I’m an AI-native product engineer focused on building and shipping digital products from idea to production.
 
 ---
 
